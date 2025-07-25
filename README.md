@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jitendraK4121
 - 👀 I’m interested in FullStack development 
-- 🌱 I’m currently learning Java Backend Tech Stacks
 - 📫 How to reach me ? My Email- jitendrakumarsahoo201919@gmail.com
 - 😄 Pronouns: ... Is it needed?
 - ⚡ Fun fact: ...my profile is enough for you to laugh out loud 
